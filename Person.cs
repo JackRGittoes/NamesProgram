@@ -10,7 +10,7 @@ namespace PersonProgram
         public void Introduce()
         {
 
-            Console.WriteLine("Your Name Is {0}", Name);
+            Console.WriteLine("The name you provided is {0}", Name);
             Console.ReadLine();
         }
         public string NewName(string name)

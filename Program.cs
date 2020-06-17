@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* I built this program to try and grasp an understanding of creating objects in .NET & C#. 
+ The program takes names and then stores them within a list and then outputs them to the user */ 
+
 namespace PersonProgram
 {
     class Program
